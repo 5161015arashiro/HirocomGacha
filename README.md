@@ -12,7 +12,7 @@
 ## インストール方法
 ```
 $ cd 作業ディレクトリ
-$ git clone https://github.com/kuronotsubo/teamA.git
+$ git clone https://github.com/5161003/HirocomGacha
 ```
 
 ## 使い方
